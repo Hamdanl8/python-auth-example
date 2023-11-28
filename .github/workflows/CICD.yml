@@ -30,4 +30,4 @@ jobs:
         file: ./Dockerfile
         pull: true
         push: true
-        tags: hamzasaeed01/python-action:v1
+        tags: hamdan0502/python-action:v1
